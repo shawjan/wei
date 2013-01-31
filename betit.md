@@ -1,5 +1,7 @@
-betit新增接口
+betit
 ====================================
+（新增接口）
+
 版本：0.1  
 作者：[钟魏](mailto:623610577@qq.com)
 
@@ -7,6 +9,16 @@ betit新增接口
 2013.1.30  进行修复和新增了一些接口   
  
 ************************************
+
+索引
+----
+* 接口
+       *      [删除功能接口]（#删除功能接口）  
+	   *      [竞猜转发功能接口]（#竞猜转发功能接口）
+	   *      [搜索相片接口]（#搜索相片接口）
+	   *      [我的相册接口]（#我的相册接口）
+	   *      [即将开奖功能接口]（#即将开奖功能接口）
+	   *      [编辑功能接口]（#编辑功能接口）
 
 
 <h2>删除功能接口</h2>
@@ -215,7 +227,7 @@ betit新增接口
 [↑返回顶部](#betit) 
 
 
-<h2>即将开奖功能</h2>
+<h2>即将开奖功能接口</h2>
 域名/capi/space.php?do=feed&view=open&m_auth=ff8cf2wDkUUiu8syK%2BP1DgK6j5n79FLSYfgtW%2FEIMkM514wfowT6ABYChlTA%2BrpgDA6QwEkBkzXOkVRONoS  
 
 
@@ -302,7 +314,7 @@ betit新增接口
 
 [↑返回顶部](#betit)
 
-<h2>编辑功能</h2>
+<h2>编辑功能接口</h2>
 域名/capi/cp.php?uid=1&ac=quiz&quizid=670&quizsubmit=true&subject=我的打赌&options[1]=A赢&options[2]=B输&pics[1]=81&pics[2]=79&joincost=20&portion=3 &endtime=12324324235&resulttime=4343234&friend=0&m_auth=ff8cf2wDkUUiu8syK%2BP1DgK6j5n79FLSYfgtW%2FEIMkM514wfowT6ABYChlTA%2BrpgDA6QwEkBkzXOkVRONoSX
 
 ####请求参数  
