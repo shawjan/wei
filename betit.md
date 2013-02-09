@@ -230,7 +230,7 @@ betit
 
 
 <h2>即将开奖功能接口</h2>
-域名/capi/space.php?do=feed&view=open&m_auth=ff8cf2wDkUUiu8syK%2BP1DgK6j5n79FLSYfgtW%2FEIMkM514wfowT6ABYChlTA%2BrpgDA6QwEkBkzXOkVRONoS  
+域名/capi/space.php?do=feed&view=open&queryop=up&m_auth=ff8cf2wDkUUiu8syK%2BP1DgK6j5n79FLSYfgtW%2FEIMkM514wfowT6ABYChlTA%2BrpgDA6QwEkBkzXOkVRONoS  
 
 
 
